@@ -11,7 +11,7 @@ if st.button(label="Analyze"):
     else:
         with st.spinner("Analyzing....."):
             response = requests.post(
-                "http://127.0.0.1:8000/analyze",
+                "https://smart-text-analyzer-k0u5.onrender.com/analyze",
                 json={"text": text}
             )
             if response.status_code == 200:
