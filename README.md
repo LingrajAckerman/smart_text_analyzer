@@ -6,8 +6,8 @@ A production-ready full-stack application that analyzes input text and provides 
 
 ## 📌 Live Demo
 
-* 🌐 Frontend: https://your-frontend-url
-* 🔗 Backend API Docs: https://your-backend-url/docs
+* 🌐 Frontend: https://smarttextanalyzer-etduvrdeeylcctvomzjwnt.streamlit.app/
+* 🔗 Backend API Docs: https://smart-text-analyzer-k0u5.onrender.com/docs
 
 ---
 
